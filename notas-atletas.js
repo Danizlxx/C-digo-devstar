@@ -45,4 +45,7 @@ for (let i = 0; i < atletas.length; i++) {
   console.log(`Notas Obtidas: ${notas.join(",")}`);
   console.log(`Média Válida: ${media}`);
   console.log(""); // linha em branco entre os atletas
+Atleta: Cesar Abascal
+Notas Obtidas: 10,9.34,8.42,10,7.88
+Média Válida: 9.253333333333334
 }
